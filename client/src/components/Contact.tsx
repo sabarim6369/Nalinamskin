@@ -16,17 +16,17 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Us",
-      content: "123 Beauty Boulevard, Wellness District, CA 90210",
+      content: "39, Kamaraj colony, omalur main road, Permanur, Salem- 636 007",
     },
     {
       icon: Phone,
       title: "Call Us",
-      content: "+1 (555) 123-4567",
+      content: "+91 9790029573",
     },
     {
       icon: Mail,
       title: "Email Us",
-      content: "hello@glowandgrace.com",
+      content: "contact.nalinam@gmail.com",
     },
     {
       icon: Clock,
@@ -80,7 +80,7 @@ const Contact = () => {
             {/* Map Placeholder */}
             <div className="bg-muted rounded-3xl h-64 overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.733089091671!2d-118.39969292346624!3d34.06350101605679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bc04d6d147ab%3A0xd6c7c5fcf1f7d2e5!2sBeverly%20Hills%2C%20CA%2090210!5e0!3m2!1sen!2sus!4v1709821234567!5m2!1sen!2sus"
+                src="https://www.google.com/maps?q=39%20Kamaraj%20colony%2C%20omalur%20main%20road%2C%20Permanur%2C%20Salem%20-%20636%20007&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
